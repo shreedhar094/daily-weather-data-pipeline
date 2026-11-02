@@ -1,0 +1,18 @@
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables and API keys
+.env
+
+# Database files
+*.db
+*.sqlite3
+
+# Log files
+*.log
+
+# Backup files
+main_backup.py
